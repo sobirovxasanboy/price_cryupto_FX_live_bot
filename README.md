@@ -1,1 +1,0 @@
-# price_cryupto_FX_live_bot
